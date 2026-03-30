@@ -1,0 +1,6 @@
+python-telegram-bot
+googlesearch-python
+requests
+beautifulsoup4
+nest_asyncio
+flask
